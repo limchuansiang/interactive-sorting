@@ -1,5 +1,5 @@
 Interactive Sorting
-==========
+============
 
 Have fun with Sorting Algorithm:
 * Ascending / Descending / Random / Input data source
