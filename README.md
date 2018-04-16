@@ -19,4 +19,4 @@ Sites with similar features:
 * [http://sorting.at/](http://sorting.at/)
 * [http://www.sorting-algorithms.com/](http://www.sorting-algorithms.com/)
 * [http://coolshell.cn/articles/3933.html](http://coolshell.cn/articles/3933.html)
-* [http://www.thinkingincrowd.me/algorithm/](http://www.thinkingincrowd.me/algorithm/
+* [http://www.thinkingincrowd.me/algorithm/](http://www.thinkingincrowd.me/algorithm/)
