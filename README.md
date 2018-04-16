@@ -1,11 +1,11 @@
-visual-alg
+Interactive Sorting
 ==========
 
-Visualize Sorting Algorithm with:
+Have fun with Sorting Algorithm:
 * Ascending / Descending / Random / Input data source
 * Start / Stop / Step precise control
 
-Currently supported algorithms:
+Sorting algorithms include:
 * Bubble Sort
 * Insertion Sort
 * Selection Sort
@@ -15,10 +15,8 @@ Currently supported algorithms:
 * Merge Sort (TopDown)
 * Merge Sort (BottomUp)
 
-Demo site: [http://www.thinkingincrowd.me/algorithm/](http://www.thinkingincrowd.me/algorithm/)
-
-
-Other sites with more similar features:
+Sites with similar features:
 * [http://sorting.at/](http://sorting.at/)
 * [http://www.sorting-algorithms.com/](http://www.sorting-algorithms.com/)
 * [http://coolshell.cn/articles/3933.html](http://coolshell.cn/articles/3933.html)
+* [http://www.thinkingincrowd.me/algorithm/](http://www.thinkingincrowd.me/algorithm/
